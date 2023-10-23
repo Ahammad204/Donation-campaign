@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/8KgGdZ5/Health.png",
+      "title": "Clean water for children",
+      "categoryy": "Health",
+      "category_bg": "rgba(0, 82, 255, 0.2)",
+      "card_bg": "rgba(0, 82, 255, 0.20)",
+      "text_button_bg": "rgba(0, 82, 255, 1)",
+      "description": "Health donations represent generous acts where individuals, organizations, or governments offer financial assistance or resources to bolster healthcare initiatives. These contributions, spanning medical supplies, facilities, or treatment accessibility, aim to ensure equal healthcare access for all. Through these benevolent efforts, health donations empower individuals to conquer health disparities, promoting both personal well-being and societal advancement.",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/Bw7hPPy/Education.png",
+      "title": "Good education",
+      "categoryy": "Education",
+      "category_bg": "rgba(255, 68, 74, 0.2)",
+      "card_bg": "rgba(255, 68, 74, 0.20)",
+      "text_button_bg": "rgba(255, 68, 74, 1)",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 900
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/7NwTB6h/Clothing.png",
+      "title": "Used Clothing Drive",
+      "categoryy": "Clothing",
+      "category_bg": "rgba(121, 194, 63, 0.2)",
+      "card_bg": "rgba(121, 194, 63, 0.20)",
+      "text_button_bg": "rgba(121, 194, 63, 1)",
+      "description": "Clothing donation is a meaningful act of generosity where individuals or organizations contribute gently-used or new garments to those in need. These donations help address various societal issues, including poverty and homelessness. By giving away unwanted clothing items, people can provide warmth, comfort, and dignity to those less fortunate. Donations can be made to charitable organizations, thrift stores, or community initiatives, ensuring that clothing reaches those who require it most. Such acts of kindness promote sustainability, reduce waste, and foster a sense of community, making a positive impact on society's well-being.",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/mhQGwvx/Food.png",
+      "title": "Better Food for Everyone",
+      "categoryy": "Food",
+      "category_bg": "rgba(248, 113, 71, 0.2)",
+      "card_bg": "rgba(248, 113, 71, 0.20)",
+      "text_button_bg": "rgba(248, 113, 71, 1)",
+      "description": "Food donation is a charitable act that involves giving surplus or unused food to those in need. It's a vital component of addressing hunger and reducing food waste. Donors, including individuals, businesses, and organizations, contribute food items to food banks, shelters, or community programs. These donated items can be non-perishable goods like canned goods or fresh produce. Food donations help provide nourishment to disadvantaged individuals and families, promoting food security and reducing hunger-related issues while also minimizing food waste and its environmental impact. It's a powerful way to support vulnerable communities and create a more sustainable food system.",
+      "price": 189
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/mhQGwvx/Food.png",
+      "title": "Better Food for Everyone",
+      "categoryy": "Food",
+      "category_bg": "rgba(248, 113, 71, 0.2)",
+      "card_bg": "rgba(248, 113, 71, 0.20)",
+      "text_button_bg": "rgba(248, 113, 71, 1)",
+      "description": "Food donation is a charitable act that involves giving surplus or unused food to those in need. It's a vital component of addressing hunger and reducing food waste. Donors, including individuals, businesses, and organizations, contribute food items to food banks, shelters, or community programs. These donated items can be non-perishable goods like canned goods or fresh produce. Food donations help provide nourishment to disadvantaged individuals and families, promoting food security and reducing hunger-related issues while also minimizing food waste and its environmental impact. It's a powerful way to support vulnerable communities and create a more sustainable food system.",
+      "price": 178
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/7NwTB6h/Clothing.png",
+      "title": "Used Clothing Drive",
+      "categoryy": "Clothing",
+      "category_bg": "rgba(121, 194, 63, 0.2)",
+      "card_bg": "rgba(121, 194, 63, 0.20)",
+      "text_button_bg": "rgba(121, 194, 63, 1)",
+      "description": "Clothing donation is a meaningful act of generosity where individuals or organizations contribute gently-used or new garments to those in need. These donations help address various societal issues, including poverty and homelessness. By giving away unwanted clothing items, people can provide warmth, comfort, and dignity to those less fortunate. Donations can be made to charitable organizations, thrift stores, or community initiatives, ensuring that clothing reaches those who require it most. Such acts of kindness promote sustainability, reduce waste, and foster a sense of community, making a positive impact on society's well-being.",
+      "price": 100
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/Bw7hPPy/Education.png",
+      "title": "Good education",
+      "categoryy": "Education",
+      "category_bg": "rgba(255, 68, 74, 0.2)",
+      "card_bg": "rgba(255, 68, 74, 0.20)",
+      "text_button_bg": "rgba(255, 68, 74, 1)",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 100
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/8KgGdZ5/Health.png",
+      "title": "Clean water for children",
+      "categoryy": "Health",
+      "category_bg": "rgba(0, 82, 255, 0.2)",
+      "card_bg": "rgba(0, 82, 255, 0.20)",
+      "text_button_bg": "rgba(0, 82, 255, 1)",
+      "description": "Health donations represent generous acts where individuals, organizations, or governments offer financial assistance or resources to bolster healthcare initiatives. These contributions, spanning medical supplies, facilities, or treatment accessibility, aim to ensure equal healthcare access for all. Through these benevolent efforts, health donations empower individuals to conquer health disparities, promoting both personal well-being and societal advancement.",
+      "price": 100
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/8KgGdZ5/Health.png",
+      "title": "Clean water for children",
+      "categoryy": "Health",
+      "category_bg": "rgba(0, 82, 255, 0.2)",
+      "card_bg": "rgba(0, 82, 255, 0.20)",
+      "text_button_bg": "rgba(0, 82, 255, 1)",
+      "description": "Health donations represent generous acts where individuals, organizations, or governments offer financial assistance or resources to bolster healthcare initiatives. These contributions, spanning medical supplies, facilities, or treatment accessibility, aim to ensure equal healthcare access for all. Through these benevolent efforts, health donations empower individuals to conquer health disparities, promoting both personal well-being and societal advancement.",
+      "price": 700
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/Bw7hPPy/Education.png",
+      "title": "Good education",
+      "categoryy": "Education",
+      "category_bg": "rgba(255, 68, 74, 0.2)",
+      "card_bg": "rgba(255, 68, 74, 0.20)",
+      "text_button_bg": "rgba(255, 68, 74, 1)",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 800
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/7NwTB6h/Clothing.png",
+      "title": "Used Clothing Drive",
+      "categoryy": "Clothing",
+      "category_bg": "rgba(121, 194, 63, 0.2)",
+      "card_bg": "rgba(121, 194, 63, 0.20)",
+      "text_button_bg": "rgba(121, 194, 63, 1)",
+      "description": "Clothing donation is a meaningful act of generosity where individuals or organizations contribute gently-used or new garments to those in need. These donations help address various societal issues, including poverty and homelessness. By giving away unwanted clothing items, people can provide warmth, comfort, and dignity to those less fortunate. Donations can be made to charitable organizations, thrift stores, or community initiatives, ensuring that clothing reaches those who require it most. Such acts of kindness promote sustainability, reduce waste, and foster a sense of community, making a positive impact on society's well-being.",
+      "price": 150
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/mhQGwvx/Food.png",
+      "title": "Better Food for Everyone",
+      "categoryy": "Food",
+      "category_bg": "rgba(248, 113, 71, 0.2)",
+      "card_bg": "rgba(248, 113, 71, 0.20)",
+      "text_button_bg": "rgba(248, 113, 71, 1)",
+      "description": "Food donation is a charitable act that involves giving surplus or unused food to those in need. It's a vital component of addressing hunger and reducing food waste. Donors, including individuals, businesses, and organizations, contribute food items to food banks, shelters, or community programs. These donated items can be non-perishable goods like canned goods or fresh produce. Food donations help provide nourishment to disadvantaged individuals and families, promoting food security and reducing hunger-related issues while also minimizing food waste and its environmental impact. It's a powerful way to support vulnerable communities and create a more sustainable food system.",
+      "price": 200
+    }
+  ]
+  
